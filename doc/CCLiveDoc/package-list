@@ -1,0 +1,14 @@
+com.bokecc.sdk.mobile.live
+com.bokecc.sdk.mobile.live.Exception
+com.bokecc.sdk.mobile.live.logging
+com.bokecc.sdk.mobile.live.pojo
+com.bokecc.sdk.mobile.live.replay
+com.bokecc.sdk.mobile.live.replay.data
+com.bokecc.sdk.mobile.live.replay.doc
+com.bokecc.sdk.mobile.live.replay.drm
+com.bokecc.sdk.mobile.live.replay.drm.exception
+com.bokecc.sdk.mobile.live.replay.drm.util
+com.bokecc.sdk.mobile.live.replay.flexible
+com.bokecc.sdk.mobile.live.replay.pojo
+com.bokecc.sdk.mobile.live.rtc
+com.bokecc.sdk.mobile.live.widget
